@@ -1,5 +1,5 @@
 export default function homePageDisplay(element) {
-    console.log('I got called from mainPage.js!');
+    console.log('I got called from homePage.js!');
 
     element.innerHTML = "";
 
