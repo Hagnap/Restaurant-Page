@@ -1,11 +1,14 @@
-import mainPageDisplay from './mainPage.js';
+import homePageDisplay from './homePage.js';
 import menuPageDisplay from './menuPage.js';
 import contactPageDisplay from './contactPage.js';
 
 function component() {
-    mainPageDisplay();
-    menuPageDisplay();
-    contactPageDisplay();
+
+    const element = document.querySelector("#content"); 
+
+    homePageDisplay(element);
+    menuPageDisplay(element);
+    contactPageDisplay(element);
 }
 
 component();
