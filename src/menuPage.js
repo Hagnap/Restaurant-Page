@@ -3,12 +3,12 @@ import contactPageDisplay from './contactPage.js';
 import addButtons from './index.js';
 
 export default function menuPageDisplay(element) {
-    console.log('I got called from menuPage.js!');
 
     element.innerHTML = "";
 
     // Create elements for webpage
     const navbar = document.createElement("div");
+    navbar.setAttribute("id", "navbar");
     addButtons(element, navbar);
 
     const header = document.createElement("header");
