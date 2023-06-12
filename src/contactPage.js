@@ -11,6 +11,10 @@ export default function contactPageDisplay(element) {
     const navbar = document.createElement("div");
     addButtons(element, navbar);
 
+    const header = document.createElement("header");
+    header.textContent = "How to Contact the Pizza Palace";
+
     // Add content to element (content div on webpage)
     element.appendChild(navbar);
+    element.appendChild(header);
   }

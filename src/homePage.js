@@ -13,7 +13,6 @@ export default function homePageDisplay(element) {
 
     const header = document.createElement("header");
     header.textContent = "Welcome to Pizza Palace!";
-    header.classList.add("test");
 
     const heroImage = document.createElement("img");
     heroImage.setAttribute("height", "300px");

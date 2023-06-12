@@ -2,19 +2,6 @@ import homePageDisplay from './homePage.js';
 import menuPageDisplay from './menuPage.js';
 import contactPageDisplay from './contactPage.js';
 
-/*
-const homeBtn = document.querySelector("#homeBtn");
-console.log(homeBtn);
-
-
-const menuBtn = document.querySelector("#menuBtn");
-console.log(menuBtn);
-
-
-const contactBtn = document.querySelector("#contactBtn");
-console.log(contactBtn);
-*/
-
 export default function addButtons(element, navbar) {
     
     const homeBtn = document.createElement("button");
