@@ -1,9 +1,39 @@
+import menuPageDisplay from './menuPage.js';
+import contactPageDisplay from './contactPage.js';
+
 export default function homePageDisplay(element) {
     console.log('I got called from homePage.js!');
 
     element.innerHTML = "";
 
     // Create elements for webpage
+    
+    const navbar = document.createElement("div");
+    const homeBtn = document.createElement("button");
+    homeBtn.innerText = "Home";
+    homeBtn.setAttribute("id", "homeBtn");
+        homeBtn.addEventListener("click", function() {
+        homePageDisplay(element);
+        })
+
+    const menuBtn = document.createElement("button");
+    menuBtn.innerText = "Menu";
+    menuBtn.setAttribute("id", "menuBtn");
+    menuBtn.addEventListener("click", function() {
+    menuPageDisplay(element);
+})
+    const contactBtn = document.createElement("button");
+    contactBtn.innerText = "Contact";
+    contactBtn.setAttribute("id", "contactBtn");
+    contactBtn.addEventListener("click", function() {
+    contactPageDisplay(element);
+})
+    
+
+    navbar.appendChild(homeBtn);
+    navbar.appendChild(menuBtn);
+    navbar.appendChild(contactBtn);
+
     const header = document.createElement("header");
     header.textContent = "Welcome to Pizza Palace!";
     header.classList.add("test");
@@ -28,6 +58,7 @@ export default function homePageDisplay(element) {
     heroMessage.classList.add('test');
 
     // Add elements to content elem
+    element.appendChild(navbar);
     element.appendChild(header);
     element.appendChild(heroImage);
     element.appendChild(heroMessage);
