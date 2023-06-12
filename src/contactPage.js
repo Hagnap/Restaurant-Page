@@ -9,7 +9,6 @@ export default function contactPageDisplay(element) {
     // Create elements for webpage
     const subContentDiv = document.createElement("div");
     subContentDiv.setAttribute("id", "sub-content-div");
-    subContentDiv.setAttribute("class", "contact");
 
     const navbar = document.createElement("div");
     navbar.setAttribute("id", "navbar");
