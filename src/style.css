@@ -1,3 +1,7 @@
+* {
+    --cheese-color: rgba(255,214,57,255);
+}
+
 body {
 
     display: flex;
@@ -10,9 +14,21 @@ body {
 }
 
 button {
-    height: 30px;
-    width: auto;
+    height: 35px;
+    width: 60px;
+    text-align: center;
+    font-size: 14px;
     margin: 8px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: black;
+    border: none;
+    color: var(--cheese-color);
 }
 
 header {
@@ -36,11 +52,12 @@ header {
     display: flex;
     gap: 48px;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     border-radius: 15px;
-    background-color: rgba(255,214,57,255);
+    background-color: var(--cheese-color);
     height: 100%;
+    width: 80%;
 }
 
 #navbar {
@@ -59,3 +76,4 @@ header {
     width: 80vw;
     margin-top: auto;
 }
+
