@@ -6,6 +6,7 @@ https://jhagg26.github.io/Restaurant-Page/dist/index.html
 ## Challenges Faced
 Creating Content
     - I did not have any good ideas for the hero message for this webpage, so I resorted to using ChatGPT to create this. I gave it the following prompt: 
+    
         ```
         Create a hero message for a pizza restaurant that talks about how much the restaurant values their family recipe and their excellent customer service. Also add a few sentences how the restaurant was created by a mom and pop about 30 years ago and it has been a staple in their community since then 
         ```
