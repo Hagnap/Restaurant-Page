@@ -11,11 +11,11 @@ Creating Content
 
 Background Image
 
-    - This was my first time using CSS to add a background image, I knew this was possible but always used background colors and not images. It was a bit of a challenge getting it to only be at the top and to look *nice*. However, after a brief google search I found some helpful resources.
+- This was my first time using CSS to add a background image, I knew this was possible but always used background colors and not images. It was a bit of a challenge getting it to only be at the top and to look *nice*. However, after a brief google search I found some helpful resources.
 
 Webpack
 
-    - This is something that is new to me so it was a challenge having to adjust to a new workflow. At the start I found myself referring to the (tutorial)[https://webpack.js.org/guides/getting-started/] I did prior to this project but as I went on in the project that began to decrease. However, this is a simple usage of webpack I imagine a project of larger scale will be more of a challenge (or learning experience depending on how you want to look at it).
+- This is something that is new to me so it was a challenge having to adjust to a new workflow. At the start I found myself referring to the (tutorial)[https://webpack.js.org/guides/getting-started/] I did prior to this project but as I went on in the project that began to decrease. However, this is a simple usage of webpack I imagine a project of larger scale will be more of a challenge (or learning experience depending on how you want to look at it).
 
 ## Guide/Reference
 This website was created following the Odin Project. You can find the reference (here)[https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page]
