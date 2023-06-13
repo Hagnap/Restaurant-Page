@@ -21,7 +21,7 @@ export default function homePageDisplay(element) {
     heroImage.setAttribute("height", "300px");
     heroImage.setAttribute("width", "300px");
     heroImage.setAttribute("id", "hero-image");
-    heroImage.setAttribute("src", "hero-image.png");
+    heroImage.setAttribute("src", "../hero-image.png");
 
     const heroMessage = document.createElement("p");
     heroMessage.setAttribute("id", "hero-message");
