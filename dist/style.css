@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("../cheese.png");
+    background-image: url("cheese.png");
     background-size: 30%;
     background-repeat: repeat-x;
     height: 100vh;
