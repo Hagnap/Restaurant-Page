@@ -8,6 +8,7 @@ Creating Content
     - I did not have any good ideas for the hero message for this webpage, so I resorted to using ChatGPT to create this. I gave it the following prompt: `Create a hero message for a pizza restaurant that talks about how much the restaurant values their family recipe and their excellent customer service. Also add a few sentences how the restaurant was created by a mom and pop about 30 years ago and it has been a staple in their community since then`
 
  - After being pleased with the result of the query above I used another query to create names & descriptions for the pizzas on the menu. I gave it the following prompt: `List the ten most popular types of pizzas with a brief description of each one`
+
 Background Image
     - This was my first time using CSS to add a background image, I knew this was possible but always used background colors and not images. It was a bit of a challenge getting it to only be at the top and to look *nice*. However, after a brief google search I found some helpful resources.
 
