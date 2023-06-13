@@ -1,5 +1,8 @@
 # Restaurant-Page
 
+## Link
+https://jhagg26.github.io/Restaurant-Page/dist/index.html
+
 ## Challenges Faced
 
 Background Image
