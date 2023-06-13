@@ -59,7 +59,7 @@ export default function menuPageDisplay(element) {
     addButtons(element, navbar);
 
     const header = document.createElement("header");
-    header.textContent = "Pizza Palace Menu";
+    header.textContent = "The Pizza Palace Menu";
 
     // Add content to element (content div on webpage)
     subContentDiv.appendChild(header);
