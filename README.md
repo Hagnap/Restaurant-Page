@@ -30,3 +30,24 @@ Webpack
 
 ## Guide/Reference
 This website was created following the Odin Project. You can find the reference [here](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
+
+## Img Credits
+[Cheese Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fcheese-pizza-gm180822661-24698718&psig=AOvVaw3X1a7Sn-p9_iGnHMviFXQX&ust=1686872899739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjE2bH5w_8CFQAAAAAdAAAAABAE)
+
+[Pepperoni Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhot-homemade-pepperoni-pizza-gm521403691-50292810&psig=AOvVaw0vlzxQXV0wT6LZPZ6iXEbx&ust=1686872743070000&source=images&cd=vfe&ved=2ahUKEwjy1qnm-MP_AhV1cjABHXlZCvwQjRx6BAgAEAw)
+
+[BBQ Chicken Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paleorunningmomma.com%2Fbbq-chicken-pizza-grain-free-paleo%2F&psig=AOvVaw1MQSceqyIeHLUpRmjr2rdv&ust=1686873258375000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDIzdz6w_8CFQAAAAAdAAAAABBG)
+
+[Buffalo Chicken Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bakedbyanintrovert.com%2Fbuffalo-chicken-pizza%2F&psig=AOvVaw1J8Ivl9QE3XK7KjUeQ0gBv&ust=1686872846746000&source=images&cd=vfe&ved=2ahUKEwj9xuGX-cP_AhW5cTABHWwSD68QjRx6BAgAEAw)
+
+[Hawaiian  Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-photos%2Fhawaiian-pizza&psig=AOvVaw2vg5QXpbdkHXFWfENECukq&ust=1686872779631000&source=images&cd=vfe&ved=2ahUKEwj0heH3-MP_AhU9dDABHUL4B_IQjRx6BAgAEAw)
+
+[Margherita Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spicesinmydna.com%2Fgluten-free-margherita-pizza%2F&psig=AOvVaw2nt5TS-SvEauksMVdOL_6d&ust=1686872756314000&source=images&cd=vfe&ved=2ahUKEwixgNLs-MP_AhWZlIQIHXeKDzgQjRx6BAgAEAw)
+
+[Meat Lovers Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lecremedelacrumb.com%2Fmeat-lovers-pizza%2F&psig=AOvVaw0gdL5DbfJ-JUJ8ldUlfulr&ust=1686873222974000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj73cv6w_8CFQAAAAAdAAAAABAJ)
+
+[Mediterranean Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grandecheese.com%2Frecipes%2Fmediterranean-pizza%2F&psig=AOvVaw3ikd_ATnXH8p2SUif6DXd-&ust=1686872871545000&source=images&cd=vfe&ved=2ahUKEwiylsuj-cP_AhUynoQIHUVLAtgQjRx6BAgAEAw)
+
+[Supreme Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsupreme-pizza&psig=AOvVaw3Fw6hgKFmVbMRnSYV09a_n&ust=1686872861691000&source=images&cd=vfe&ved=2ahUKEwiD3PGe-cP_AhUAdzABHTGmALIQjRx6BAgAEAw)
+
+[Veggie Supreme Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.schlotzskys.com%2Fmenu%2Fvegetarian&psig=AOvVaw3-bivZLMIUkOcKuAK-h02H&ust=1686873163157000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi0p6_6w_8CFQAAAAAdAAAAABAw)

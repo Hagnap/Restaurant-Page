@@ -83,6 +83,18 @@ header {
     outline: 1px solid black;
     margin: 8px;
     padding: 8px;
+    border-radius: 5px;
+}
+
+.menuItemImg {
+    border-radius: 5px;
+    margin: 8px;
+    height: 200px;
+    width: 300px;
+}
+
+#nameAndPrice {
+
 }
 
 #navbar {
