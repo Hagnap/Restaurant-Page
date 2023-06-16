@@ -25,7 +25,7 @@ export default function contactPageDisplay(element) {
       + "</br></br>Email: ThePizzaPalace@internet.com";
 
     const map = document.createElement("iframe");
-    map.src = "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d379.06457236634776!2d-76.0211051!3d40.530175!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5dc4127e061a3%3A0x1b05056d5b468766!2sCheese%20Ln%2C%20Tilden%20Township%2C%20PA%2019526!5e0!3m2!1sen!2sus!4v1686914659797!5m2!1sen!2sus";
+    map.src = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.5130492331045!2d-76.0208449!3d40.530252999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c5dddc8bf7a939%3A0xc5a9b7713c33b107!2sThe%20Pizza%20Palace!5e0!3m2!1sen!2sus!4v1686940587233!5m2!1sen!2sus";
     map.setAttribute("width","600");
     map.setAttribute("height", "450");
     map.setAttribute("allowfullscreen", "");
