@@ -113,6 +113,9 @@ header {
     justify-content: center;
     margin-bottom: 64px;
 }
+#hero-image {
+    background-color: transparent
+}
 
 #hero-message {
     text-align: center;
