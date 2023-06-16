@@ -7,8 +7,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("cheese.png");
-    background-size: 30%;
+    background-image: url("images/cheese.png");
+    background-size: 31%;
     background-repeat: repeat-x;
     height: 100vh;
 }
@@ -114,3 +114,8 @@ header {
     margin-top: auto;
 }
 
+.googleMap {
+    width: 600px;
+    height: 450px;
+    border:0;
+}

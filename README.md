@@ -31,7 +31,7 @@ Webpack
 ## Guide/Reference
 This website was created following the Odin Project. You can find the reference [here](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-## Img Credits
+## Images Credits
 [Cheese Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fcheese-pizza-gm180822661-24698718&psig=AOvVaw3X1a7Sn-p9_iGnHMviFXQX&ust=1686872899739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjE2bH5w_8CFQAAAAAdAAAAABAE)
 
 [Pepperoni Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhot-homemade-pepperoni-pizza-gm521403691-50292810&psig=AOvVaw0vlzxQXV0wT6LZPZ6iXEbx&ust=1686872743070000&source=images&cd=vfe&ved=2ahUKEwjy1qnm-MP_AhV1cjABHXlZCvwQjRx6BAgAEAw)

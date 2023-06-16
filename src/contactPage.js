@@ -24,6 +24,7 @@ export default function contactPageDisplay(element) {
       + "</br></br>Phone Number: 012-345-6789"
       + "</br></br>Email: ThePizzaPalace@internet.com";
 
+
     // Add content to element (content div on webpage)
     subContentDiv.appendChild(header);
     subContentDiv.appendChild(contactInfo);
