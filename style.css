@@ -1,5 +1,11 @@
+@font-face {
+    font-family: cursiveFont;
+    src: url("Diphylleia/Diphylleia-Regular.ttf");
+  }
+
 * {
     --cheese-color: rgba(255,214,57,255);
+    font-family: cursiveFont;
 }
 
 body {
@@ -86,6 +92,11 @@ header {
     border-radius: 5px;
 }
 
+.menu-item > div > p {
+
+    font-size: 16px;
+}
+
 .menuItemImg {
     border-radius: 5px;
     margin: 8px;
@@ -112,6 +123,7 @@ header {
     justify-content: center;
     width: 80vw;
     margin-top: auto;
+    font-size: 15px;
 }
 
 .googleMap {
