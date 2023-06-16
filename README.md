@@ -3,6 +3,7 @@
 ## Description
 This project is the creation of a fictional pizza restaurant's website where I got to use Webpack in a project for the first time. I wasn't too concerned with the design of this website, I was focused on learning how to set up and use Webpack on a project. It was a bit difficult at first getting it set up and getting used to it, I go over this in some more depth in *Challenges Faced*. During the course of this project I found myself creating more HTML via JavaScript than actually coding the HTML by hand and I found that interesting as it is common for developers to do when using React and other JavaScript frameworks/libraries. Another thing I noticed while working on this project was that my CSS files are still very unorganized, my goal for my next project is to have a better organized CSS file. The layout of this website was made using both Flexbox and Grid. A fun thing I did for this was add embed google maps to the website. When I thought about doing this at first I thought it'd be difficult, it was suprisingly easy! To spice things up a bit I also added a fake location on Google Maps for The Pizza Palace, this was also suprisingly easy to do. It seems that Google does not do much verification to see if a place is real or not because it was only a matter of minutes after I submitted the location for The Pizza Palace I got an email informing me that my submission was accepted and that it would be on Google Maps in 24 hours. That last bit was a bit off topic but I thought it was interesting.
 
+
 ## Link
 https://jhagg26.github.io/Restaurant-Page/dist/index.html
 
@@ -32,6 +33,9 @@ Webpack
 This website was created following the Odin Project. You can find the reference [here](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
 ## Images Credits
+
+[Chef/Hero Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fso%2Fpizza-chef-clipart%2F&psig=AOvVaw1zdWRjiinGdpJY_dVl9jT0&ust=1687001916075000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC9wYHax_8CFQAAAAAdAAAAABAE)
+
 [Cheese Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fcheese-pizza-gm180822661-24698718&psig=AOvVaw3X1a7Sn-p9_iGnHMviFXQX&ust=1686872899739000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjE2bH5w_8CFQAAAAAdAAAAABAE)
 
 [Pepperoni Pizza](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fhot-homemade-pepperoni-pizza-gm521403691-50292810&psig=AOvVaw0vlzxQXV0wT6LZPZ6iXEbx&ust=1686872743070000&source=images&cd=vfe&ved=2ahUKEwjy1qnm-MP_AhV1cjABHXlZCvwQjRx6BAgAEAw)
