@@ -5,7 +5,7 @@ This project is the creation of a fictional pizza restaurant's website where I g
 
 
 ## Link
-https://jhagg26.github.io/Restaurant-Page/dist/index.html
+https://hagnap.github.io/Restaurant-Page/dist/index.html
 
 ## Tech Stack
 
